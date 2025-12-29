@@ -12,5 +12,5 @@ sentencepiece
 six
 tiktoken==0.1.2
 tokenizers==0.12.1
-transformers~=4.24.0
+transformers~=5.0.0rc1
 wandb==0.10.28
